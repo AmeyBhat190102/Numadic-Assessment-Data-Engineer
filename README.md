@@ -4,7 +4,7 @@
 This Flask application generates asset reports based on vehicle location data. It calculates various metrics such as distance traveled, number of trips completed, average speed, and speed violations.
 
 ## Prerequisites
-- Python 3.x
+- Python 
 - Flask
 - pandas
 - zipfile
