@@ -21,8 +21,8 @@ This Flask application generates asset reports based on vehicle location data. I
     - Example Payload:
     ```json
     {
-        "start_time": "2022-01-01T00:00:00",
-        "end_time": "2022-01-02T00:00:00"
+    'start_time': '',  # Example start time
+    'end_time': '20180312172929'      # Example end time
     }
     ```
     - Response: JSON object containing the generated report or error message.
